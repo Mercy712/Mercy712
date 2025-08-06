@@ -20,8 +20,7 @@ Welcome to my GitHub profile! I’m a curious and self-driven SOC 1 Analyst curr
 - Document my journey and share my progress
 
 ### 🔗 Connect with me:
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub Profile Link]
+- LinkedIn: https://www.linkedin.com/in/mercy-ikeh-8946482aa/
 
 > 💬 “Every log is a story, and every alert is a clue.”
 
