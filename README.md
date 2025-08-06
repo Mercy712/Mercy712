@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Mercy712/Mercy712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I'm Meme!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a curious and self-driven SOC 1 Analyst currently diving deep into the defensive side of **Cybersecurity** — especially hands-on projects like brute-force detection, authentication systems, and encryption with **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 What I'm Working On:
+- 🛡️ A login system with brute-force protection
+- 🔐 Encrypting sensitive logs with Python
+- 📊 A dashboard for log analysis and alerting
+
+### 📘 What I'm Learning:
+- Python for SOC Analysts
+- Basic threat detection and logging
+- Git & GitHub workflow
+
+### 🌱 Goals:
+- Build real-world cybersecurity tools
+- Contribute to open-source security projects
+- Document my journey and share my progress
+
+### 🔗 Connect with me:
+- LinkedIn: [Your LinkedIn URL]
+- GitHub: [Your GitHub Profile Link]
+
+> 💬 “Every log is a story, and every alert is a clue.”
+
+---
+
+Thanks for stopping by! Feel free to explore my projects and follow along as I grow 🚀
