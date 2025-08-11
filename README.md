@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 👋 Hi there, I'm Meme!
+## 👋 Hi there, I'm Mercy!
 
 Welcome to my GitHub profile! I’m a curious and self-driven SOC 1 Analyst currently diving deep into the defensive side of **Cybersecurity** — especially hands-on projects like brute-force detection, authentication systems, and encryption with **Python**.
 
