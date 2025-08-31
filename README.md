@@ -1,20 +1,20 @@
 
 
-## 👋 Hi there, I'm Mercy!
+## Hi there, I'm Mercy!
 
 Welcome to my GitHub profile! I’m a curious and self-driven SOC 1 Analyst currently diving deep into the defensive side of **Cybersecurity** — especially hands-on projects like brute-force detection, authentication systems, and encryption with **Python**.
 
-### 🧰 What I'm Working On:
-- 🛡️ A login system with brute-force protection
-- 🔐 Encrypting sensitive logs with Python
-- 📊 A dashboard for log analysis and alerting
+###  What I'm Working On:
+- A login system with brute-force protection                                         (DONE)
+- Encrypting sensitive logs with Python                                              (DONE)
+- A dashboard for log analysis and alerting                                          (DONE)
+- Network Traffic Capture & Analysis (Wireshark-lite with Python).                   (ONGOING)
 
-### 📘 What I'm Learning:
+### What I'm Learning:
 - Python for SOC Analysts
 - Basic threat detection and logging
-- Git & GitHub workflow
 
-### 🌱 Goals:
+### Goals:
 - Build real-world cybersecurity tools
 - Contribute to open-source security projects
 - Document my journey and share my progress
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m a curious and self-driven SOC 1 Analyst curr
 ### 🔗 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/mercy-ikeh-8946482aa/
 
-> 💬 “Every log is a story, and every alert is a clue.”
+>  “Every log is a story, and every alert is a clue.”
 
 ---
 
